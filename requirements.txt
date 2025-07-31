@@ -1,6 +1,6 @@
 streamlit
 opencv-python-headless
 scikit-learn
-scikit-image==0.19.3
+scikit-image==0.18.3
 joblib
 Pillow
